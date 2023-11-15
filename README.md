@@ -1,4 +1,4 @@
-![FL Arbitrage Bot Banner](<docs/source/_static/images/FL Arbitrage Bot Banner.png>)
+![FL Arbitrage Bot Banner](<docs/source/_static/images/FL Arbitrage Bot.png>)
 
 # Welcome to Flash Loan Arbitrage Bot!
 
