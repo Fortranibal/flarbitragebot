@@ -1,4 +1,4 @@
-![ML QuantLabs Banner](<docs/source/_static/images/ML QuantLabs Banner.png>)
+![FL Arbitrage Bot Banner](<docs/source/_static/images/FL Arbitrage Bot Banner.png>)
 
 # Welcome to Flash Loan Arbitrage Bot!
 
