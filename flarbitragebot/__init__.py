@@ -1,28 +1,27 @@
 """
-MLQuantLabs helps portfolio managers and traders who want to leverage the power of machine learning by providing
-reproducible, interpretable, and easy to use tools.
+FLArbitragBbot helps ...
 
-Adding MLQuantLabs to your companies pipeline is like adding a department of PhD researchers to your team.
+Adding flarbitragebot to your companies pipeline is like adding a department of PhD researchers to your team.
 """
 
-# import mlquantlabs.cross_validation as cross_validation
-# import mlquantlabs.data_structures as data_structures
-# import mlquantlabs.datasets as datasets
-# import mlquantlabs.multi_product as multi_product
-# import mlquantlabs.filters.filters as filters
-# import mlquantlabs.labeling as labeling
-# import mlquantlabs.features.fracdiff as fracdiff
-# import mlquantlabs.sample_weights as sample_weights
-# import mlquantlabs.sampling as sampling
-# import mlquantlabs.bet_sizing as bet_sizing
-# import mlquantlabs.util as util
-# import mlquantlabs.structural_breaks as structural_breaks
-# import mlquantlabs.feature_importance as feature_importance
-# import mlquantlabs.ensemble as ensemble
-# import mlquantlabs.clustering as clustering
-# import mlquantlabs.microstructural_features as microstructural_features
-# import mlquantlabs.backtest_statistics.backtests as backtests
-# import mlquantlabs.backtest_statistics.statistics as backtest_statistics
-# import mlquantlabs.networks as networks
-# import mlquantlabs.data_generation as data_generation
-# import mlquantlabs.regression as regression
+# import flarbitragebot.cross_validation as cross_validation
+# import flarbitragebot.data_structures as data_structures
+# import flarbitragebot.datasets as datasets
+# import flarbitragebot.multi_product as multi_product
+# import flarbitragebot.filters.filters as filters
+# import flarbitragebot.labeling as labeling
+# import flarbitragebot.features.fracdiff as fracdiff
+# import flarbitragebot.sample_weights as sample_weights
+# import flarbitragebot.sampling as sampling
+# import flarbitragebot.bet_sizing as bet_sizing
+# import flarbitragebot.util as util
+# import flarbitragebot.structural_breaks as structural_breaks
+# import flarbitragebot.feature_importance as feature_importance
+# import flarbitragebot.ensemble as ensemble
+# import flarbitragebot.clustering as clustering
+# import flarbitragebot.microstructural_features as microstructural_features
+# import flarbitragebot.backtest_statistics.backtests as backtests
+# import flarbitragebot.backtest_statistics.statistics as backtest_statistics
+# import flarbitragebot.networks as networks
+# import flarbitragebot.data_generation as data_generation
+# import flarbitragebot.regression as regression
